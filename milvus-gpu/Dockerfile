@@ -1,1 +1,1 @@
-From milvusdb/milvus:v2.4.5-gpu
+From milvusdb/milvus:v2.4.6-gpu
